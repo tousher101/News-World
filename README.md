@@ -1,12 +1,51 @@
-# React + Vite
+# News World- Newspaper App
+A full features of Newspaper App, and responsive UI using TailwindCSS.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+#features
+- API Call Newspaper App
+- Responsive UI/UX
+- User Friendly UI/UX
+- Page Pagination use.
+- Use Context for low API hit Model.
+- Before paged saved if new page need then only API Hit.
+- Smooth Bar loader effect.
+- Full Resposive for (Mobile, Tablet, Laptop, Desktop).
+- Used React Nested Routing system.
+- Dark Mode Available.
+- On page Nav Bar.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🛠 Tech Stack
 
-## Expanding the ESLint configuration
+- React + Vite
+- Tailwind CSS
+- NewsAPI
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## ScreenShoot
+![News-World](./src/assets/1.JPG)
+
+
+## Live Demo
+Not Available.
+
+## Personal Note
+Git commit history is not available for this project because it was developed on a low-end system.
+Running Git or Git Extensions in VS Code significantly slowed down the editor, often causing it to hang.
+As a result, version control was managed manually outside of VS Code for this project.
+
+
+## 🚀 Run Locally
+
+Clone the project:
+
+```bash
+git clone https://github.com/tousher101/News-World.git
+cd News-World
+npm install
+npm run dev
+
+
+
+
+
+
